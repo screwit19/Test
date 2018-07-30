@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pacman_Movement_Service", "Pacman_Movement_Service\Pacman_Movement_Service.csproj", "{30B9F18E-8958-488D-865E-F32EC6093BF4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pacman_Simulator_Client", "Pacman_Simulator_Client\Pacman_Simulator_Client.csproj", "{FED0BD4E-0EFF-468E-B6A6-B5FA8C071420}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pacman_Simulator_Client_Tests", "Pacman_Simulator_Client_Tests\Pacman_Simulator_Client_Tests.csproj", "{8F38AD37-754C-45AD-BD90-B6E729EFF182}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30B9F18E-8958-488D-865E-F32EC6093BF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30B9F18E-8958-488D-865E-F32EC6093BF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30B9F18E-8958-488D-865E-F32EC6093BF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30B9F18E-8958-488D-865E-F32EC6093BF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FED0BD4E-0EFF-468E-B6A6-B5FA8C071420}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FED0BD4E-0EFF-468E-B6A6-B5FA8C071420}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FED0BD4E-0EFF-468E-B6A6-B5FA8C071420}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FED0BD4E-0EFF-468E-B6A6-B5FA8C071420}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F38AD37-754C-45AD-BD90-B6E729EFF182}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F38AD37-754C-45AD-BD90-B6E729EFF182}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F38AD37-754C-45AD-BD90-B6E729EFF182}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F38AD37-754C-45AD-BD90-B6E729EFF182}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5D51F9C8-F7EF-474F-B6B1-F8D7F3FFBDE0}
+	EndGlobalSection
+EndGlobal
